@@ -1,0 +1,40 @@
+# =========================
+# Datos (NO subir datasets)
+# =========================
+data/train/
+data/test/
+*.wav
+data/features/
+
+# =========================
+# Resultados y outputs
+# =========================
+results/
+logs/
+checkpoints/
+*.pt
+*.pth
+
+# =========================
+# Notebooks temporales
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+
+# =========================
+# Entornos virtuales
+# =========================
+venv/
+.env/
+
+# =========================
+# Sistema
+# =========================
+.DS_Store
+Thumbs.db
